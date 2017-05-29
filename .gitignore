@@ -1,3 +1,4 @@
 mustBeIgnored.txt
 *.log
 /log
+*.orig
