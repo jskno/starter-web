@@ -18,7 +18,7 @@ Let's go back to new techs...
 
 ## How To Contribute
 
-dgh;WEROIGHWEOGAHWEO;IG
+This is a never-ending story
 
 ### Copyright 
 
