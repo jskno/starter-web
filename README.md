@@ -16,4 +16,7 @@ Let's go home !
 ## Deployment
 
 ## How To Contribute
- 
+
+### Copyright 
+
+	Git Training 2014
