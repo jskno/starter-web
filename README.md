@@ -17,6 +17,8 @@ Let's go home !
 
 ## How To Contribute
 
+dgh;WEROIGHWEOGAHWEO;IG
+
 ### Copyright 
 
 	Git Training 2014
