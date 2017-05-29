@@ -12,6 +12,7 @@ using a web project.
 ## Purpose
 
 Let's go home !
+Let's go back to new techs...
 
 ## Deployment
 
