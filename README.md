@@ -22,4 +22,4 @@ This is a never-ending story
 
 ### Copyright 
 
-	Git Training 2014
+	Git Training 2014, for a better developer productivity and experience.
