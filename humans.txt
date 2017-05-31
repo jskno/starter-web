@@ -12,5 +12,6 @@
 
 # TECHNOLOGY COLOPHON
 
+	JAVA, SCALA
     HTML5, CSS3
     jQuery, Modernizr
