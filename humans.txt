@@ -4,6 +4,7 @@
 # TEAM
 
     Jose Cano jskno
+    Changes from Github.
 
 # THANKS
 
